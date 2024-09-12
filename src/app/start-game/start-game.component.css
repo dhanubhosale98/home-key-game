@@ -1,0 +1,19 @@
+.border_top {
+  border-top: 1px solid red  !important;
+}
+
+.border_right {
+  border-right: 1px solid red !important;
+}
+
+.border_bottom {
+  border-bottom: 1px solid red!important;
+}
+
+.border_left {
+  border-left: 1px solid red!important;
+}
+
+.bor{
+  border: 1px solid white;
+}
